@@ -175,4 +175,23 @@
     .hero-section .parent {
         padding-inline: 24px;
     }
+    .hero-section .parent {
+        padding-inline: 24px;
+    }
+    .circle-top-1,
+    .circle-top-2,
+    .circle-buttom-1,
+    .circle-buttom-2 {
+        display: none;
+    }
+    .carousel-control-next,
+    .carousel-control-prev {
+        display: none;
+    }
+    .navtabs {
+    margin-inline: 24px !important;
+    }
+    .main-row {
+        gap: 48px;
+    }
 }
