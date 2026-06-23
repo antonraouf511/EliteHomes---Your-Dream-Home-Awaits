@@ -152,6 +152,12 @@
         margin-block: 80px;
         padding-block: 160px !important;
     }
+    .circle-top-1,
+    .circle-top-2,
+    .circle-buttom-1,
+    .circle-buttom-2 {
+        display: none;
+    }
 
 }
 @media (max-width: 576px) {
